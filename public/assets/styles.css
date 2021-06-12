@@ -32,7 +32,6 @@ footer {
   background-color: #FFF;
   border-radius: 5px;
   margin: 2em auto;
-  width: 550px;
   padding: 50px;
   border: 2px solid rgba(166, 173, 188, 0.35);
 }
@@ -60,7 +59,6 @@ footer {
 }
 .c-input {
   width: 100%;
-  font-size: 16px;
   padding: 16px;
   border-radius: 4px;
   border: 1px solid #DDD;
