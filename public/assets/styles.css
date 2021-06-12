@@ -41,7 +41,7 @@ footer {
   margin-bottom: 2em;
 }
 .form-label {
-  font-size: 16px;
+  /*font-size: 16px;*/
   font-weight: 500;
   margin-bottom: 1em;
 }
@@ -59,6 +59,7 @@ footer {
 }
 .c-input {
   width: 100%;
+  font-size:5em;
   padding: 16px;
   border-radius: 4px;
   border: 1px solid #DDD;
